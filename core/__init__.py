@@ -1,0 +1,1 @@
+"""Core device communication layer."""
